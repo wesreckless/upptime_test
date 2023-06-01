@@ -5,6 +5,16 @@ repo: upptime_test # The name of this repository
 sites:
   - name: Sentraland
     url: https://www.sentraland.net
+  - name: WS Sentraland
+    url: https://ws.sentraland.net
+  - name: PST3 Sentraland
+    url: https://sent.sentraland.net
+  - name: PST2 Sentraland
+    url: https://www.amspst.cl:8443/PSTadmin/init.do
+  - name: PST NetUno
+    url: https://sms.netuno.cl:8443/PSTNetUno/init.do
+  - name: PST Movistar
+    url: https://pst.movistar.cl:8443/PSTadmin/init.do
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
