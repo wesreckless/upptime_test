@@ -21,9 +21,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime_test
-  name:
+  name: SENTRALAND
   favicon: https://i.ibb.co/C7ZT6YD/favicon.png
-  logoUrl: https://i.ibb.co/T1KskbR/logo.png
+  logoUrl: https://i.ibb.co/K5P1ccS/logo.png
   navbar:
     - title: Todos
       href: https://wesreckless.github.io/upptime_test
