@@ -21,17 +21,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime_test
-  faviconsvg: https://sent.sentraland.net/favicon.ico
+  favicon: https://i.ibb.co/C7ZT6YD/favicon.png
   theme: pst3 
-  logoUrl: https://sent.sentraland.net/images/logo-sentraland-blanco-v2.svg
+  logoUrl: https://i.ibb.co/CQ5rJsb/logo-sentraland-blanco-v2.png
   name: Estado Sitios Sentraland/AMS
   introTitle: "**Titulo** Intro"
   introMessage: Mensaje Intro
   navbar:
-    - title: Estado Sitios
+    - title: Todos
       href: /
-    - title: AMS
-      href: https://ams.asicom.cl/
+    - title: Sentraland
+      href: https://wesreckless.github.io/upptime_test/history/sentraland
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
