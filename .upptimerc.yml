@@ -22,14 +22,10 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime_test
   favicon: https://i.ibb.co/C7ZT6YD/favicon.png
-  theme: pst3 
   logoUrl: https://i.ibb.co/CQ5rJsb/logo-sentraland-blanco-v2.png
-  name: Estado Sitios Sentraland/AMS
-  introTitle: "**Titulo** Intro"
-  introMessage: Mensaje Intro
   navbar:
     - title: Todos
-      href: /
+      href: https://wesreckless.github.io/upptime_test
     - title: Sentraland
       href: https://wesreckless.github.io/upptime_test/history/sentraland
 
