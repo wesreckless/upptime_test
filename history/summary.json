@@ -1,20 +1,20 @@
 [
   {
-    "name": "Sentraland",
+    "name": "www.sentraland.net",
     "url": "https://www.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.sentraland.net.ico",
-    "slug": "sentraland",
+    "slug": "www-sentraland-net",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1839,
-    "timeDay": 1839,
-    "timeWeek": 1839,
-    "timeMonth": 1839,
-    "timeYear": 1839,
+    "time": 1741,
+    "timeDay": 1741,
+    "timeWeek": 1741,
+    "timeMonth": 1741,
+    "timeYear": 1741,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 823,
-    "timeDay": 823,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
+    "time": 735,
+    "timeDay": 735,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 972,
-    "timeWeek": 972,
-    "timeMonth": 972,
-    "timeYear": 972,
+    "time": 809,
+    "timeDay": 809,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1189,
-    "timeWeek": 1189,
-    "timeMonth": 1189,
-    "timeYear": 1189,
+    "time": 1029,
+    "timeDay": 1029,
+    "timeWeek": 1029,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 782,
-    "timeDay": 782,
-    "timeWeek": 782,
-    "timeMonth": 782,
-    "timeYear": 782,
+    "time": 622,
+    "timeDay": 622,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {}
   },
   {
@@ -100,13 +100,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 905,
-    "timeDay": 905,
-    "timeWeek": 905,
-    "timeMonth": 905,
-    "timeYear": 905,
+    "time": 718,
+    "timeDay": 718,
+    "timeWeek": 718,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2023-06-01": 9
+      "2023-06-02": 135,
+      "2023-06-01": 89
     }
   }
 ]
