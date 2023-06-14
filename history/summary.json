@@ -22,9 +22,9 @@
     "url": "https://sent.sentraland.net",
     "icon": "https://icons.duckduckgo.com/ip3/sent.sentraland.net.ico",
     "slug": "pst-3-sentraland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 536,
     "timeMonth": 557,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-14": 0
+    }
   },
   {
     "name": "PST2 Sentraland",
@@ -106,7 +108,7 @@
     "timeMonth": 499,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-06-14": 69,
+      "2023-06-14": 1370,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
