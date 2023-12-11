@@ -13,8 +13,10 @@ sites:
     url: https://sms.netuno.cl:8443/PSTNetUno/init.do
   - name: PST Movistar
     url: https://pst.movistar.cl:8443/PSTadmin/init.do
-  - name: WS Sentraland
-    url: https://ws.sentraland.net
+  - name: La Araucana Convenios
+    url: https://convenios.laaraucana.cl/
+  - name: Club Metrogas
+    url: https://www.clubmetrogas.cl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
